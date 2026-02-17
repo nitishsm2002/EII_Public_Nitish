@@ -1,0 +1,13 @@
+code,locale,name,descr
+N,en,New,The incident has been created but not yet assigned.
+A,en,Assigned,The incident has been assigned to a team or individual.
+I,en,In Process,The incident is currently being worked on.
+H,en,On Hold,The incident is on hold, awaiting further input or action.
+R,en,Resolved,The incident has been resolved successfully.
+C,en,Closed,The incident has been closed and requires no further action.
+N,de,Neu,Der Vorfall wurde erstellt, aber noch nicht zugewiesen.
+A,de,Zugewiesen,Der Vorfall wurde einem Team oder einer Person zugewiesen.
+I,de,In Bearbeitung,Der Vorfall wird derzeit bearbeitet.
+H,de,In Wartestellung,Der Vorfall wartet auf weitere Eingaben oder Maßnahmen.
+R,de,Behoben,Der Vorfall wurde erfolgreich behoben.
+C,de,Geschlossen,Der Vorfall wurde geschlossen und erfordert keine weiteren Maßnahmen.

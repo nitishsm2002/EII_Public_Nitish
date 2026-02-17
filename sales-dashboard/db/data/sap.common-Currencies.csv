@@ -1,0 +1,22 @@
+code,symbol,minorUnit,name,descr
+327,01327,22,name-8801327,descr-8801327
+840,$,2,US Dollar,USD
+124,$,2,Canadian Dollar,CAD
+826,£,2,British Pound,GBP
+978,€,2,Euro,EUR
+392,¥,0,Japanese Yen,JPY
+156,¥,2,Chinese Yuan,CNY
+356,₹,2,Indian Rupee,INR
+986,R$,2,Brazilian Real,BRL
+484,$,2,Mexican Peso,MXN
+752,kr,2,Swedish Krona,SEK
+578,kr,2,Norwegian Krone,NOK
+208,kr,2,Danish Krone,DKK
+246,€,2,Finnish Euro,EUR
+616,zł,2,Polish Zloty,PLN
+036,A$,2,Australian Dollar,AUD
+554,NZ$,2,New Zealand Dollar,NZD
+144,Fr.,2,Swiss Franc,CHF
+380,₪,2,Israeli Shekel,ILS
+400,ر.س,2,Saudi Riyal,SAR
+404,₨,2,Pakistani Rupee,PKR

@@ -1,0 +1,22 @@
+ID,name,email,team_ID
+SalesReps-5892489,name-5892489,email-5892489,SalesTeams-3793437
+SalesReps-1001,John Smith,john.smith@company.com,SalesTeams-3793437
+SalesReps-1002,Sarah Johnson,sarah.johnson@company.com,SalesTeams-3793437
+SalesReps-1003,Michael Brown,michael.brown@company.com,SalesTeams-1002
+SalesReps-1004,Emma Wilson,emma.wilson@company.com,SalesTeams-1002
+SalesReps-1005,David Lee,david.lee@company.com,SalesTeams-1003
+SalesReps-1006,Lisa Anderson,lisa.anderson@company.com,SalesTeams-1003
+SalesReps-1007,James Martinez,james.martinez@company.com,SalesTeams-1004
+SalesReps-1008,Maria Garcia,maria.garcia@company.com,SalesTeams-1004
+SalesReps-1009,Robert Taylor,robert.taylor@company.com,SalesTeams-1005
+SalesReps-1010,Jennifer White,jennifer.white@company.com,SalesTeams-1005
+SalesReps-1011,William Harris,william.harris@company.com,SalesTeams-1006
+SalesReps-1012,Patricia Clark,patricia.clark@company.com,SalesTeams-1006
+SalesReps-1013,Charles Lewis,charles.lewis@company.com,SalesTeams-1007
+SalesReps-1014,Linda Robinson,linda.robinson@company.com,SalesTeams-1007
+SalesReps-1015,Christopher Hall,christopher.hall@company.com,SalesTeams-1008
+SalesReps-1016,Barbara Allen,barbara.allen@company.com,SalesTeams-1008
+SalesReps-1017,Daniel Young,daniel.young@company.com,SalesTeams-1009
+SalesReps-1018,Nancy King,nancy.king@company.com,SalesTeams-1009
+SalesReps-1019,Matthew Scott,matthew.scott@company.com,SalesTeams-1010
+SalesReps-1020,Karen Green,karen.green@company.com,SalesTeams-1010

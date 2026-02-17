@@ -1,0 +1,7 @@
+code,locale,name,descr
+H,en,High,The incident requires immediate attention.
+M,en,Medium,The incident is important but not urgent.
+L,en,Low,The incident has minimal impact and can be addressed later.
+H,de,Hoch,Der Vorfall erfordert sofortige Aufmerksamkeit.
+M,de,Mittel,Der Vorfall ist wichtig, aber nicht dringend.
+L,de,Niedrig,Der Vorfall hat minimale Auswirkungen und kann später bearbeitet werden.

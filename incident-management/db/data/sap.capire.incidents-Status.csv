@@ -1,0 +1,7 @@
+code,criticality,name,descr
+N,1,New,The incident has been created but not yet assigned.
+A,2,Assigned,The incident has been assigned to a team or individual.
+I,3,In Process,The incident is currently being worked on.
+H,4,On Hold,The incident is on hold, awaiting further input or action.
+R,0,Resolved,The incident has been resolved successfully.
+C,0,Closed,The incident has been closed and requires no further action.

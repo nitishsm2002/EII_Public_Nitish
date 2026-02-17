@@ -1,0 +1,4 @@
+code,name,descr
+H,High,The incident requires immediate attention.
+M,Medium,The incident is important but not urgent.
+L,Low,The incident has minimal impact and can be addressed later.

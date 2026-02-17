@@ -1,0 +1,84 @@
+<mvc:View
+    controllerName="incidents.incidentfree.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+
+    <Page title="Incidents Overview">
+        <content>
+
+            <Title text="Incidents" level="H2"/>
+
+            <Table id="incidentTable" items="{/Incidents}">
+
+                <columns>
+                    <Column><Text text="Title" /></Column>
+                    <Column><Text text="Customer" /></Column>
+                    <Column><Text text="Urgency" /></Column>
+                    <Column><Text text="Status" /></Column>
+                    <Column><Text text="Created At" /></Column>
+                </columns>
+
+                <items>
+                    <ColumnListItem>
+                        <cells>
+                            <Text text="{title}" />
+                            <Text text="{customer/name}" />
+                            <Text text="{urgency/code}" />
+                            <Text text="{status/code}" />
+                            <Text text="{createdAt}" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+
+            </Table>
+
+            <Title text="Customers" level="H2"/>
+
+            <Table id="customerTable" items="{/Customers}">
+
+                <columns>
+                    <Column><Text text="Name" /></Column>
+                    <Column><Text text="Email" /></Column>
+                    <Column><Text text="Phone" /></Column>
+                </columns>
+
+                <items>
+                    <ColumnListItem>
+                        <cells>
+                            <Text text="{name}" />
+                            <Text text="{email}" />
+                            <Text text="{phone}" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+
+            </Table>
+
+            <Title text="Addresses" level="H2"/>
+
+            <Table id="addressTable" items="{/Addresses}">
+
+                <columns>
+                    <Column><Text text="Customer" /></Column>
+                    <Column><Text text="City" /></Column>
+                    <Column><Text text="Post Code" /></Column>
+                    <Column><Text text="Street" /></Column>
+                </columns>
+
+                <items>
+                    <ColumnListItem>
+                        <cells>
+                            <Text text="{customer/name}" />
+                            <Text text="{city}" />
+                            <Text text="{postCode}" />
+                            <Text text="{streetAddress}" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+
+            </Table>
+
+        </content>
+    </Page>
+
+</mvc:View>

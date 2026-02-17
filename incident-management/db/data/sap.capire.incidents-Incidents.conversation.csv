@@ -1,0 +1,21 @@
+up__ID,ID,timestamp,author,message
+I001,C001-001,2025-12-01T10:05:00Z,admin,Initial report created.
+I001,C001-002,2025-12-01T10:15:00Z,admin,Assigned to support team.
+I002,C002-001,2025-12-02T11:35:00Z,user1,Customer reported payment failure.
+I002,C002-002,2025-12-02T12:10:00Z,user1,Requested additional details from customer.
+I003,C001-001,2025-12-03T09:20:00Z,admin,Customer reported account locked.
+I003,C001-002,2025-12-03T09:50:00Z,admin,Reset password and informed customer.
+I004,C003-001,2025-12-04T14:25:00Z,user2,Customer requested password reset.
+I004,C003-002,2025-12-04T15:05:00Z,user2,Password reset completed.
+I005,C002-001,2025-12-05T08:55:00Z,admin,Customer reported service downtime.
+I005,C002-002,2025-12-05T09:15:00Z,admin,Issue resolved and customer informed.
+I006,C004-001,2025-12-06T16:45:00Z,user3,Customer reported data sync issue.
+I006,C004-002,2025-12-06T17:05:00Z,user3,Data sync issue resolved.
+I007,C005-001,2025-12-07T10:25:00Z,admin,Customer reported login issue.
+I007,C005-002,2025-12-07T10:55:00Z,admin,Login issue resolved.
+I008,C006-001,2025-12-08T12:35:00Z,user4,Customer reported slow performance.
+I008,C006-002,2025-12-08T13:05:00Z,user4,Performance issue resolved.
+I009,C007-001,2025-12-09T14:15:00Z,admin,Customer reported billing issue.
+I009,C007-002,2025-12-09T14:45:00Z,admin,Billing issue resolved.
+I010,C008-001,2025-12-10T09:05:00Z,user5,Customer requested account update.
+I010,C008-002,2025-12-10T09:35:00Z,user5,Account updated successfully.
